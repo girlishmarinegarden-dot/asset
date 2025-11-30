@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "title": "dea1",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea1.mp3"
+    },
+    {
+      "title": "dea2",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea2.mp3"
+    },
+    {
+      "title": "dea3",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea3.mp3"
+    },
+    {
+      "title": "dea4",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea4.mp3"
+    },
+    {
+      "title": "dea5",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea5.mp3"
+    },
+    {
+      "title": "dea6",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea6.mp3"
+    },
+    {
+      "title": "dea7",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea7.mp3"
+    },
+    {
+      "title": "dea8",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea8.mp3"
+    },
+    {
+      "title": "dea9",
+      "url": "https://raw.githubusercontent.com/girlishmarinegarden-dot/asset/main/bgm/dea9.mp3"
+    }
+  ]
+}
